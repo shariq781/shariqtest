@@ -1,0 +1,10 @@
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\bin\Debug\SHARIQHACKS.exe.config
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\bin\Debug\SHARIQHACKS.exe
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\bin\Debug\SHARIQHACKS.pdb
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\obj\Debug\SHARIQHACKS.csproj.AssemblyReference.cache
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\obj\Debug\SHARIQHACKS.csproj.CoreCompileInputs.cache
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\obj\Debug\SHARIQHA.215FEE69.Up2Date
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\obj\Debug\SHARIQHACKS.exe
+C:\Users\S1MPLE\source\repos\SHARIQHACKS\SHARIQHACKS\obj\Debug\SHARIQHACKS.pdb
